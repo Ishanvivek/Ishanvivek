@@ -12,6 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ishanvivek&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanvivek&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ishanvivek&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
